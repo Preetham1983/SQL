@@ -8,7 +8,7 @@ Welcome to the SQL Learning Hub! This repository is designed to provide a clear,
 
 ## 📚 Table of Contents
 
-This repository is organized into chapters and supplementary PDF guides to help you learn progressively.
+This repository is organized into chapterss and supplementary PDF guides to help you learn progressively.
 
 ### Chapters
 
