@@ -1,7 +1,6 @@
 # 🚀 A Clear Guide to SQL
 
-Welcome to the SQL Learning Hub! This repository is designed to provide a clear, concise, and structured guide to learning SQL (Structured Query Language). Whether you're a beginner taking your first steps in data or a professional looking to refresh your skills, you'll find the resources here helpful.
-
+Welcome to the SQL Learning Hub! This repository is designed to provide a clear, concise, and structured guide to learning SQL (Structured Query Language). Whether you're a beginner taking your first steps in data or a professional looking to refresh your skills, you'll find the resources here helpful
 
 
 ---
