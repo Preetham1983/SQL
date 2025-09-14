@@ -14,7 +14,7 @@ This repository is organized into chapterss and supplementary PDF guides to help
 The core concepts of SQL are broken down into five chapters. It's recommended to go through them in order.
 
 * **Chapter 1: Introduction to Databases & Basic Queries**
-    * What is SQL?
+    * What is SQL
     * Setting up your environment.
     * The `SELECT` and `FROM` clauses.
     * Basic filtering with `WHERE`.
